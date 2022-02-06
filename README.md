@@ -1,2 +1,2 @@
-# jadistanbelly.github.io
+# Jad Istanbelly
 Personal Github Repository
