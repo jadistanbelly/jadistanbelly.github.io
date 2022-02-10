@@ -15,7 +15,9 @@ Jad is a recent graduate of Finance and Economics from [The Sobeys School of Bus
 The use of different datasets to explore various statisical concepts. This was originally considered my final assignment for an Econometrics course however, I have attempted to create it as its own standalone document. If a reference is needed, take a look at the pdf titled "Final". Attached is also a copy of the datasets used in my HTML file.
 
 [Econometrics_Istanbelly](https://github.com/jadistanbelly/Econometrics/raw/main/Econometrics_Istanbelly.html)
+
 [Final](https://github.com/jadistanbelly/Econometrics/raw/main/Final.pdf)
+
 [Data Sets](https://github.com/jadistanbelly/Econometrics/raw/main/DataSets.zip)
 
 Here are a few external resources that have been really helpful when taking Econometrics:
