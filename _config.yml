@@ -13,3 +13,7 @@ author:
   email: "jadelkareem@hotmail.com"
 title: Jad Istanbelly
 description: Bookmark this to keep an eye on my projects!
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
