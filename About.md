@@ -6,4 +6,4 @@ Jad is a recent graduate of Finance and Economics from [The Sobeys School of Bus
 
 --- 
 
-A copy of my latest resume is available here in PDF format
+A copy of my latest resume is available here in [PDF format](https://github.com/jadistanbelly/jadistanbelly.github.io/raw/main/CV.pdf)
