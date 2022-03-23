@@ -8,7 +8,7 @@ minima:
 header_pages:
   - About.md
   - Projects.md
-  - _Projects/test.md
+  - _projects/test.md
 author:
   name: Jad Istanbelly
   email: "jadelkareem@hotmail.com"
@@ -23,5 +23,5 @@ collections:
   Projects:
     output: true
 include: 
-  - _Projects
+  - _projects
   
