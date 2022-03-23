@@ -22,7 +22,7 @@ titles_from_headings:
 collections:
 - projects:
     output: true
-    permalink: /projects/:path/
+
 
 include: 
   - _projects
