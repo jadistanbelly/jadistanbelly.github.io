@@ -1,23 +1,33 @@
+# Setting Theme
 remote_theme: jekyll/minima
 minima:
   skin: dark
+  
+  # Links to Personal Accounts
   social_links:
     github: jadistanbelly
     linkedin: jadistanbelly
     telegram: jadistanbelly
+    
+# Website Headers
 header_pages:
   - About.md
   - Projects.md
+  
+# Located at bottom of Website
 author:
   name: Jad Istanbelly
   email: "jadelkareem@hotmail.com"
 title: Jad Istanbelly
 description: Reach out to me, let us connect
+
+# Removes Duplicate Title Names in Pages
 titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
-#collections
+  
+# Collections
 collections:
   projects:
     output: true
