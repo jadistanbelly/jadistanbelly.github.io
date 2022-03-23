@@ -22,8 +22,8 @@ titles_from_headings:
 collections:
 - _projects:
     output: true
+    permalink: :path
+permalink: :path
 
 
-include: 
-  - _projects
   
