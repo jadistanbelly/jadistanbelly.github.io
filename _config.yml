@@ -20,8 +20,9 @@ titles_from_headings:
   collections: true
   # Collections
 collections:
-  Projects:
+  projects:
     output: true
+    permalink: /projects/:path/
 include: 
   - _projects
   
