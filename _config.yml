@@ -20,7 +20,7 @@ titles_from_headings:
   collections: true
   # Collections
 collections:
-- projects:
+- _projects:
     output: true
 
 
