@@ -8,6 +8,7 @@ minima:
 header_pages:
   - About.md
   - Projects.md
+  - _Projects/test
 author:
   name: Jad Istanbelly
   email: "jadelkareem@hotmail.com"
@@ -21,3 +22,6 @@ titles_from_headings:
 collections:
   Projects:
     output: true
+include: 
+  - _Projects
+  
