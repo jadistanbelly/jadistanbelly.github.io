@@ -4,7 +4,7 @@ The second course I have taken using R where I could apply the statistical conce
 
 The HTML file below of my project has been designed to be a standalone document however, if a reference is needed the attached PDF titled "Final" is a good outline/rubric. The data sets used is also available below.
 
-[Project](https://rawcdn.githack.com/jadistanbelly/Econometrics/2e0ee4fba41774c60219db74cbc1f90d9f12bf6c/Econometrics%20Project.html) \| [Final](https://github.com/jadistanbelly/Econometrics/raw/main/Final.pdf) \| [Data Sets](https://github.com/jadistanbelly/Econometrics/raw/main/DataSets.zip)
+[Project](https://rawcdn.githack.com/jadistanbelly/Econometrics/0bc68a32d1feff462287dbb1c3d87885d16415d6/Econometrics%20Project.html) \| [Final](https://github.com/jadistanbelly/Econometrics/raw/main/Final.pdf) \| [Data Sets](https://github.com/jadistanbelly/Econometrics/raw/main/DataSets.zip)
 
 Here are a few external resources that have been really helpful when taking Econometrics:
 
