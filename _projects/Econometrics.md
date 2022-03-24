@@ -1,14 +1,14 @@
-Econometrics
-=====
+# Econometrics
 
+The second course I have taken using R where I could apply the statistical concepts learned throughout my degrees. It has been very insightful to not only understand the application to statistical models but also the method of interpretation to each model. This final project utilizes four data-sets to show important applications of Linear Algebra, OLS and Logit models, Confusion Matrix etc. in business like data. For example, analysis is done on data-sets regarding money supply and its link to inflation or on the Capital Asset Pricing Model (CAPM) that can explain the rate of return on a security.
 
-The use of different datasets to explore various statistical concepts. This was originally considered my final assignment for an Econometrics course however, I have attempted to create it as its own standalone document. If a reference is needed, take a look at the pdf titled "Final". Attached is also a copy of the datasets used in my HTML file.
+The HTML file below of my project has been designed to be a standalone document however, if a reference is needed the attached PDF titled "Final" is a good outline/rubric. The data sets used is also available below.
 
-[Econometrics Project](https://rawcdn.githack.com/jadistanbelly/Econometrics/2e0ee4fba41774c60219db74cbc1f90d9f12bf6c/Econometrics%20Project.html) | [Final](https://github.com/jadistanbelly/Econometrics/raw/main/Final.pdf) | [Data Sets](https://github.com/jadistanbelly/Econometrics/raw/main/DataSets.zip)
+[Project](https://rawcdn.githack.com/jadistanbelly/Econometrics/2e0ee4fba41774c60219db74cbc1f90d9f12bf6c/Econometrics%20Project.html) \| [Final](https://github.com/jadistanbelly/Econometrics/raw/main/Final.pdf) \| [Data Sets](https://github.com/jadistanbelly/Econometrics/raw/main/DataSets.zip)
 
 Here are a few external resources that have been really helpful when taking Econometrics:
 
-  - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
-  - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
+-   [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+-   [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
 
----
+------------------------------------------------------------------------
